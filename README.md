@@ -1,4 +1,4 @@
-# 🦋 The AI Tipping Point Atlas
+# The AI Tipping Point Atlas
 
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-blueviolet?style=for-the-badge)
 ![Field](https://img.shields.io/badge/Field-Complexity_Science-FF4B4B?style=for-the-badge)
