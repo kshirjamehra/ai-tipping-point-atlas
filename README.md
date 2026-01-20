@@ -26,7 +26,6 @@ Using the **Logistic Map** ($x_{n+1} = rx_n(1-x_n)$) as a proxy for recursive se
 
 ![EWS Analysis](ews_analysis.png)
 
-*(Ensure you have images named `bifurcation_map.png` and `ews_analysis.png` in your repository)*
 
 ---
 
